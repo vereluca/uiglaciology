@@ -81,6 +81,14 @@ While living/studying/working in Moscow is likely to be great experience, moving
 - As you later travel in and out of the US, you I-20 becomes an essential travel document. Make sure you always have an up to date physical copy with you. 
 - If you have questions, concerns, or at just generally stressed out during the process, contact Tim, the [graduate admissions office](mailto:gadms@uidaho.edu) or the [International Programs Office](ipo@uidaho.edu). All will be more than happy to provide support. 
 
+## Taxes
+
+You will be paying both _state_ and _federal_ taxes on your US-based TA and/or RA income. As an international student, you are considered a _non-resident_ for tax purposes. 
+Typically, the university will withhold a percentage of your stipend each pay period which goes towards paying your taxes at the end of the tax year. This withholding is just an estimation, though, and sometimes you will need to pay more on top of that or receive a _tax return_ if too much was withheld. Additionally, depending on the country you come from, you may have specific _tax treaties_ that modify the amount of taxs that you have to pay and your withholding settings. 
+The University of Idaho offers a free subscription to a tax software (SprinTax, similar to TurboTax but for international people). While this  While neither your supervisor, HR, the department administrator, nor this website can legally give you any tax-related advice, the University of Idaho's School of Law holds a yearly **Tax Clinic** for international students. 
+Once you are settled in, it is highly recommended that you do the following well in advance before taxes are due (usually mid-April of the next year):
+- Check the dates of --and attend-- the Tax Clinic (usually held a few months before taxes are due, ask IPO if you can't find info about this free clinic);
+- Check your W-4, i.e. your Withholding Certificate, to ensure that the right amount of money is being withheld from your stipend each month. Use any online tax extimator to estimate how much that will be on your first year, then use your first tax returns info to refine that for all next years. NOTA BENE: tax withholdings do not influence how much tax you owe, it simply allows you to avoid owing thousands of dollars all at once at the end of the year.
 
 ---
 
