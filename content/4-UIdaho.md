@@ -108,4 +108,34 @@ If you are an international student who wants to drive, you will need to apply f
 - Apply to graduate.
 - Format your thesis carefully.
 
+--- 
+
+# Joining the lab as an international student
+
+While living/studying/working in Moscow is likely to be great experience, moving to the US can be pretty daunting. Below is a list with tips for international students to navigate the visa process, and to getting set up in Idaho. Do be aware that this list is non-comprehensive.  The steps may change, and there might be extra (or less) steps depending on your country of origin.
+
+- Make sure you save your letters of acceptance, these are also available later in your [status portal](https://futurevandals.uidaho.edu/account/login?r=https%3a%2f%2ffuturevandals.uidaho.edu%2fapply%2fstatus).
+- If you are going to be working as a graduate and/or teaching assistant, you will get an official offer letter from the Department of Geology. This too is important so make sure you save it as well. 
+- [Graduate admissions](graduateadmissions@uidaho.edu) will get in touch with you about issuing an I-20. Follow their instructions as quickly as possible. 
+- As soon as you get the I-20 back, pay the [901-sevis fee](https://www.fmjfee.com/i901fee/index.html) and fill in the [DS-160 form online](https://ceac.state.gov/genniv/). Make sure you select your country of permanent residence, and not simply the consulate closest to you or wherever you might be studying at the moment.
+- At the end of the DS-160 process, you can go straight to scheduling an appointment for a visa interview at your country’s US consulate. Once again, do this as soon as possible (depending on the consulate, there can be long [waiting times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html).
+- Before your appointment, print out all your documents in color. Your consulate will most likely send you a checklist; your passport, I-20, DS-160 confirmation page and 901-sevis fee receipt will definitely be needed. You will probably also need to bring printed ID-photos in a specific US format. Make sure to visit a photographer well in advance and tell them to use the US template.  
+- Make sure you get to your appointment well before the scheduled time, and be prepared to spend the rest of the day there. Most consulates won’t let you bring in electronics: they usually have a safe there for your phone but they don’t accept laptops, so leave it at home.
+- Once issued, your visa allows you to enter the US one month before the date listed on your I-20 and offer letter. Make sure you arrive in the US before that date. However, you are only allowed to start working for the department after the listed date. This includes fieldwork unfortunately. 
+- A requirement for maintaining your visa status as a grad student is enrollment in 9 credits. 
+- As you arrive and officially become an international student, the International Programs Office (IPO) becomes your go to for visa related things. Upload your immigration documents to their [web portal](https://www.uidaho.edu/academics/ipo/ivandal). 
+- As soon as you get to campus (on your first day), go check in with Renee in McClure 201, and with the International programs office at Living Learning Community Building #3. Bring all your visa documents. They will send you on to HR to further help with getting you set up to work (including getting a social security number). 
+- As you later travel in and out of the US, you I-20 becomes an essential travel document. Make sure you always have an up to date physical copy with you. 
+- If you have questions, concerns, or at just generally stressed out during the process, contact Tim, the [graduate admissions office](mailto:gadms@uidaho.edu) or the [International Programs Office](ipo@uidaho.edu). All will be more than happy to provide support. 
+
+## Taxes
+
+You will be paying both _state_ and _federal_ taxes on your US-based TA and/or RA income. As an international student, you are considered a _non-resident_ for tax purposes. 
+Typically, the university will withhold a percentage of your stipend each pay period which goes towards paying your taxes at the end of the tax year. This withholding is just an estimation, though, and sometimes you will need to pay more on top of that or receive a _tax return_ if too much was withheld. Additionally, depending on the country you come from, you may have specific _tax treaties_ that modify the amount of taxs that you have to pay and your withholding settings. 
+The University of Idaho offers a free subscription to a tax software (SprinTax, similar to TurboTax but for international people). While this  While neither your supervisor, HR, the department administrator, nor this website can legally give you any tax-related advice, the University of Idaho's School of Law holds a yearly **Tax Clinic** for international students. 
+Once you are settled in, it is highly recommended that you do the following well in advance before taxes are due (usually mid-April of the next year):
+- Check the dates of --and attend-- the Tax Clinic (usually held a few months before taxes are due, ask IPO if you can't find info about this free clinic);
+- Check your W-4, i.e. your Withholding Certificate, to ensure that the right amount of money is being withheld from your stipend each month. Use any online tax extimator to estimate how much that will be on your first year, then use your first tax returns info to refine that for all next years. NOTA BENE: tax withholdings do not influence how much tax you owe, it simply allows you to avoid owing thousands of dollars all at once at the end of the year.
+
+
 ---
